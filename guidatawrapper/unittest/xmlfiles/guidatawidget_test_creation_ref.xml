@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='ASCII'?>
+<widget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name3'</name>
+    <widgettype type="str">'FloatWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name4'</name>
+    <widgettype type="str">'FloatWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name5'</name>
+    <widgettype type="str">'ComboBoxWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name4'</name>
+    <widgettype type="str">'EditLineWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name5'</name>
+    <widgettype type="str">'ComboBoxWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name5'</name>
+    <widgettype type="str">'ComboBoxWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name4'</name>
+    <widgettype type="str">'EditLineWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name5'</name>
+    <widgettype type="str">'ComboBoxWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name4'</name>
+    <widgettype type="str">'FloatWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'name3'</name>
+    <widgettype type="str">'FloatWidget'</widgettype>
+  </GuidataWidget>
+</widget>

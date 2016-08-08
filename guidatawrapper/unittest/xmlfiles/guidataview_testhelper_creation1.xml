@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='ASCII'?>
+<view>
+  <viewproperties>
+    <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+      <viewname type="str">'Main view 1'</viewname>
+      <viewtype type="str">'Standard'</viewtype>
+    </GuidataView>
+  </viewproperties>
+  <widget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name1_1'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name1_2'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name1_3'</name>
+      <widgettype type="str">'ComboBoxWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_1'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_2'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_3'</name>
+      <widgettype type="str">'ComboBoxWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_4'</name>
+      <widgettype type="str">'ComboBoxWidget'</widgettype>
+    </GuidataWidget>
+  </widget>
+</view>

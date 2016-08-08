@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
+<view>
+  <viewproperties>
+    <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+      <viewname type="str">''</viewname>
+      <viewtype type="str">'Standard'</viewtype>
+    </GuidataView>
+  </viewproperties>
+  <widget/>
+</view>

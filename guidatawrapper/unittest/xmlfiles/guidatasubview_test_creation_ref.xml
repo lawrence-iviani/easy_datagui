@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='ASCII'?>
+<view>
+  <viewproperties>
+    <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+      <viewname type="str">'Complex view 1'</viewname>
+      <viewtype type="str">'Standard'</viewtype>
+    </GuidataView>
+  </viewproperties>
+  <widget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_1'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_2'</name>
+      <widgettype type="str">'FloatWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_3'</name>
+      <widgettype type="str">'ComboBoxWidget'</widgettype>
+    </GuidataWidget>
+    <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+      <name type="str">'name2_4'</name>
+      <widgettype type="str">'ComboBoxWidget'</widgettype>
+    </GuidataWidget>
+  </widget>
+  <subview>
+    <viewproperties>
+      <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+        <viewname type="str">'Subview1'</viewname>
+        <viewtype type="str">'Splitter'</viewtype>
+      </GuidataView>
+    </viewproperties>
+    <widget/>
+    <subview>
+      <viewproperties>
+        <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+          <viewname type="str">'Subview1_1'</viewname>
+          <viewtype type="str">'Standard'</viewtype>
+        </GuidataView>
+      </viewproperties>
+      <widget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_1'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_2'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_3'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_4'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+      </widget>
+    </subview>
+    <subview>
+      <viewproperties>
+        <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+          <viewname type="str">'Subview1_2'</viewname>
+          <viewtype type="str">'Standard'</viewtype>
+        </GuidataView>
+      </viewproperties>
+      <widget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_1'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_2'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_3'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_4'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+      </widget>
+    </subview>
+  </subview>
+  <subview>
+    <viewproperties>
+      <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+        <viewname type="str">'Subview2'</viewname>
+        <viewtype type="str">'Tabs'</viewtype>
+      </GuidataView>
+    </viewproperties>
+    <widget/>
+    <subview>
+      <viewproperties>
+        <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+          <viewname type="str">'Subview2_1'</viewname>
+          <viewtype type="str">'Standard'</viewtype>
+        </GuidataView>
+      </viewproperties>
+      <widget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_1'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_2'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_3'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_4'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+      </widget>
+    </subview>
+    <subview>
+      <viewproperties>
+        <GuidataView module="guidatawrapper.GuidataView" version="20151123">
+          <viewname type="str">'Subview2_2'</viewname>
+          <viewtype type="str">'Standard'</viewtype>
+        </GuidataView>
+      </viewproperties>
+      <widget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_1'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_2'</name>
+          <widgettype type="str">'FloatWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_3'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+        <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+          <name type="str">'name2_4'</name>
+          <widgettype type="str">'ComboBoxWidget'</widgettype>
+        </GuidataWidget>
+      </widget>
+    </subview>
+  </subview>
+</view>
