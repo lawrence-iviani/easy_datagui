@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteNumber module="dataclass.DataClassDiscreteNumber" version="20151001">
+    <description type="str">'My first data'</description>
+    <initvalue type="int">2</initvalue>
+    <limits type="list">[1, 2, 4, (1+1j)]</limits>
+    <name type="str">'Pippo'</name>
+    <value type="int">1</value>
+  </DataClassDiscreteNumber>
+  <DataClassDiscreteNumber module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'Discrete Numeric Data'</description>
+    <limits type="list">[False, True]</limits>
+    <name type="str">'Pluto'</name>
+    <value type="bool">True</value>
+  </DataClassDiscreteNumber>
+  <DataClassNumber module="dataclass.DataClassNumber" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="int">-1</initvalue>
+    <limits type="list">[-10, 10]</limits>
+    <name type="str">'Paperino'</name>
+    <value type="float">2.1</value>
+  </DataClassNumber>
+</data>

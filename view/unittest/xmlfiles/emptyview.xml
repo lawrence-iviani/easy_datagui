@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
+<view module="view.GenericView" version="20151123">
+  <viewproperties>
+    <GenericView module="view.GenericView"  version="20151123">
+      <viewname type="str">''</viewname>
+    </GenericView>
+  </viewproperties>
+  <widget/>
+</view>

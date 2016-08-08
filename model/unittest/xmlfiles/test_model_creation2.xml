@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ASCII'?>
+<model module="model.DataClassModel" version="20151014">
+  <data>
+    <DataClassNumber module="dataclass.DataClassNumber" version="20151006">
+      <description type="str">'My  data'</description>
+      <initvalue type="int">1</initvalue>
+      <limits type="list">[1, 3]</limits>
+      <name type="str">'Pippo'</name>
+      <unit type="str">''</unit>
+      <value type="int">1</value>
+    </DataClassNumber>
+  </data>
+</model>

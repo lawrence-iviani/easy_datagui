@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='ASCII'?>
+<view>
+  <viewproperties>
+    <GenericView module="view.GenericView" version="20151123">
+      <viewname type="str">'My View1'</viewname>
+    </GenericView>
+  </viewproperties>
+  <widget>
+    <GenericWidget module="widget.GenericWidget" version="20151029">
+      <name type="str">'name1'</name>
+      <widget_type type="str">'FloatWidget'</widget_type>
+    </GenericWidget>
+    <GenericWidget module="widget.GenericWidget" version="20151029">
+      <name type="str">'name2'</name>
+      <widget_type type="str">'ComboBoxWidget'</widget_type>
+    </GenericWidget>
+    <GenericWidget module="widget.GenericWidget" version="20151029">
+      <name type="str">'a_strange_name'</name>
+      <widget_type type="str">'FloatWidget'</widget_type>
+    </GenericWidget>
+    <GenericWidget module="widget.GenericWidget" version="20151029">
+      <name type="str">'funny_11_name'</name>
+      <widget_type type="str">'ComboBoxWidget'</widget_type>
+    </GenericWidget>
+  </widget>
+</view>

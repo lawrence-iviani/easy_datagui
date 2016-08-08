@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteNumber module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'My first data'</description>
+    <initvalue type="int">2</initvalue>
+    <limits type="list">[1, 2, 4, (1+1j)]</limits>
+    <name type="str">'Pippo'</name>
+    <unit type="str">''</unit>
+    <value type="int">1</value>
+  </DataClassDiscreteNumber>
+  <DataClassDiscreteNumber module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'Discrete Numeric Data'</description>
+    <limits type="list">[True, False]</limits>
+    <name type="str">'Pluto'</name>
+    <unit type="str">'mA'</unit>
+    <value type="bool">True</value>
+  </DataClassDiscreteNumber>
+  <DataClassNumber module="dataclass.DataClassNumber" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="int">-1</initvalue>
+    <limits type="list">[-10, 10]</limits>
+    <name type="str">'Paperino'</name>
+    <unit type="str">''</unit>
+    <value type="float">2.1</value>
+  </DataClassNumber>
+  <DataClassString module="dataclass.DataClassString" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="str">'-1'</initvalue>
+    <maxlength type="int">5</maxlength>
+    <name type="str">'Paperoga'</name>
+    <unit type="str">''</unit>
+    <value type="str">'2.1'</value>
+  </DataClassString>
+  <DataClassDiscreteString module="dataclass.DataClassDiscreteString" version="20151006">
+    <description type="str">'Discrete Numeric Data'</description>
+    <initvalue type="str">'ciao'</initvalue>
+    <limits type="list">['a', 'b', 'ciao']</limits>
+    <name type="str">'QuiQuoQua'</name>
+    <unit type="str">''</unit>
+    <value type="str">'a'</value>
+  </DataClassDiscreteString>
+</data>

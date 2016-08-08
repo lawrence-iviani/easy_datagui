@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassNumber module="dataclass.DataClassNumber" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="int">-1</initvalue>
+    <limits type="list">[-10, 10]</limits>
+    <name type="str">'Paperino'</name>
+    <unit type="str">''</unit>
+    <value type="float">2.1</value>
+  </DataClassNumber>
+</data>

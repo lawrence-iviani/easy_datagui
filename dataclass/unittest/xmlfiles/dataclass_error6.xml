@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassNumber  module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="int">-1</initvalue>
+    <limits type="list">[-10, 10]</limits>
+    <name type="str">'Paperino'</name>
+    <value type="float">21.1</value> <!--The numeric value is out of range -->
+  </DataClassNumber>
+</data>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassString module="dataclass.DataClassString" version="20151006">
+    <description type="str">'Numeric Data'</description>
+    <initvalue type="str">'-1'</initvalue>
+    <maxlength type="int">5</maxlength>
+    <name type="str">'Paperoga'</name>
+    <unit type="str">''</unit>
+    <value type="str">'2.1'</value>
+  </DataClassString>
+</data>

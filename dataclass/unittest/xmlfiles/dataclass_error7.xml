@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteNumber  module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'My first data'</description>
+    <initvalue type="list">2</initvalue><!--set as list instead of int -->
+    <limits type="list">[1, 2, 4, (1+1j)]</limits>
+    <name type="str">'Pippo'</name>
+    <value type="int">1</value>
+  </DataClassDiscreteNumber>
+</data>

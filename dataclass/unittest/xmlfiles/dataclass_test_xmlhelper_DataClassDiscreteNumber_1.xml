@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteNumber module="dataclass.DataClassDiscreteNumber" version="20151006">
+    <description type="str">'Discrete Numeric Data'</description>
+    <limits type="list">[True, False]</limits>
+    <name type="str">'Pluto'</name>
+    <unit type="str">'mA'</unit>
+    <value type="bool">True</value>
+  </DataClassDiscreteNumber>
+</data>

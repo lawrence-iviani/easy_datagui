@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteIntNumber module="dataclass.DataClassDiscreteIntNumber" version="20151006">
+    <description type="str">'Data class discrete int number'</description>
+    <initvalue type="int">0</initvalue>
+    <limits type="list">[-3, 4, 7, 1, -2, 0]</limits>
+    <name type="str">'Etabeta'</name>
+    <unit type="str">''</unit>
+    <value type="int">1</value>
+  </DataClassDiscreteIntNumber>
+</data>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<widget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'Pippo'</name>
+    <widgettype type="str">'ComboBoxWidget'</widgettype>
+  </GuidataWidget>
+  <GuidataWidget module="guidatawrapper.GuidataWidget" version="20151029">
+    <name type="str">'Paperino'</name>
+    <widgettype type="str">'FloatWidget'</widgettype>
+  </GuidataWidget>
+</widget>

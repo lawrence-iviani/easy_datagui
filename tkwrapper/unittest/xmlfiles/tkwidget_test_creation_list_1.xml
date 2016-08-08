@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ASCII'?>
+<widget>
+  <TkWidget module="tkwrapper.TkWidget" version="20151029">
+    <name type="str">'name1'</name>
+    <widget_type type="str">'FloatWidget'</widget_type>
+  </TkWidget>
+  <TkWidget module="tkwrapper.TkWidget" version="20151029">
+    <name type="str">'name2'</name>
+    <widget_type type="str">'IntWidget'</widget_type>
+  </TkWidget>
+  <TkWidget module="tkwrapper.TkWidget" version="20151029">
+    <name type="str">'name3'</name>
+    <widget_type type="str">'ComboBoxWidget'</widget_type>
+  </TkWidget>
+  <TkWidget module="tkwrapper.TkWidget" version="20151029">
+    <name type="str">'name4'</name>
+    <widget_type type="str">'ComboBoxWidget'</widget_type>
+  </TkWidget>
+</widget>

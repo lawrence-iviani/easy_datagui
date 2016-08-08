@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassNumber module="dataclass.DataClassNumber" version="20151006">
+    <description type="str">'Some description'</description>
+    <initvalue type="int">1</initvalue>
+    <limits type="list">[0, 2]</limits>
+    <name type="str">'ValidName'</name>
+    <unit type="str">''</unit>
+    <value type="float">1.5</value>
+  </DataClassNumber>
+</data>

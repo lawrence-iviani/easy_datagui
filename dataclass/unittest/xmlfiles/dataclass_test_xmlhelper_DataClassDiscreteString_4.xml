@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII'?>
+<data>
+  <DataClassDiscreteString module="dataclass.DataClassDiscreteString" version="20151006">
+    <description type="str">'Discrete Numeric Data'</description>
+    <initvalue type="str">'ciao'</initvalue>
+    <limits type="list">['a', 'b', 'ciao']</limits>
+    <name type="str">'QuiQuoQua'</name>
+    <unit type="str">''</unit>
+    <value type="str">'a'</value>
+  </DataClassDiscreteString>
+</data>
